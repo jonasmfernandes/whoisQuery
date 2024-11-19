@@ -1,0 +1,585 @@
+WHOIS DE https://www.youtube.com/ 
+{
+  "domain_name": "YOUTUBE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2024-01-14 09:59:57",
+    "2024-01-14 09:59:58+00:00"
+  ],
+  "creation_date": [
+    "2005-02-15 05:13:12",
+    "2005-02-15 05:13:12+00:00"
+  ],
+  "expiration_date": [
+    "2025-02-15 05:13:12",
+    "2025-02-15 00:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+WHOIS DE https://www.google.com/maps/ 
+{
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+WHOIS DE https://outlook.live.com/mail/0/ 
+{
+  "domain_name": "LIVE.COM",
+  "registrar": "CSC Corporate Domains, Inc.",
+  "registrar_url": [
+    "http://cscdbs.com",
+    "www.cscprotectsbrands.com"
+  ],
+  "reseller": null,
+  "whois_server": "whois.corporatedomains.com",
+  "referral_url": null,
+  "updated_date": [
+    "2024-07-03 01:00:02",
+    "2024-07-02 16:55:01"
+  ],
+  "creation_date": [
+    "1994-12-28 05:00:00",
+    "1994-12-28 00:00:00"
+  ],
+  "expiration_date": "2024-12-27 05:00:00",
+  "name_servers": [
+    "NS1-37.AZURE-DNS.COM",
+    "NS2-37.AZURE-DNS.NET",
+    "NS3-37.AZURE-DNS.ORG",
+    "NS4-37.AZURE-DNS.INFO"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited"
+  ],
+  "emails": [
+    "domainabuse@cscglobal.com",
+    "domains@microsoft.com",
+    "msnhst@microsoft.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Administrator",
+  "org": "Microsoft Corporation",
+  "address": "One Microsoft Way",
+  "city": "Redmond",
+  "state": "WA",
+  "registrant_postal_code": "98052",
+  "country": "US"
+}
+
+WHOIS DE https://web.telegram.org/ 
+{
+  "domain_name": "telegram.org",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": "http://www.whois.godaddy.com",
+  "reseller": null,
+  "whois_server": "http://whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": "2024-06-30 19:24:40",
+  "creation_date": "2003-12-15 14:48:05",
+  "expiration_date": "2031-12-15 14:48:05",
+  "name_servers": [
+    "ns-cloud-b1.googledomains.com",
+    "ns-cloud-b4.googledomains.com",
+    "ns-cloud-b2.googledomains.com",
+    "ns-cloud-b3.googledomains.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "Domains By Proxy, LLC",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "Arizona",
+  "registrant_postal_code": "REDACTED FOR PRIVACY",
+  "country": "US"
+}
+
+WHOIS DE https://www.linkedin.com/feed/ 
+{
+  "domain_name": "LINKEDIN.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2024-10-01 11:01:31",
+    "2024-10-01 11:01:31+00:00"
+  ],
+  "creation_date": [
+    "2002-11-02 15:38:11",
+    "2002-11-02 15:38:11+00:00"
+  ],
+  "expiration_date": [
+    "2025-11-02 15:38:11",
+    "2025-11-02 00:00:00+00:00"
+  ],
+  "name_servers": [
+    "DNS1.P09.NSONE.NET",
+    "DNS2.P09.NSONE.NET",
+    "DNS3.P09.NSONE.NET",
+    "DNS4.P09.NSONE.NET",
+    "NS1-42.AZURE-DNS.COM",
+    "NS2-42.AZURE-DNS.NET",
+    "NS3-42.AZURE-DNS.ORG",
+    "NS4-42.AZURE-DNS.INFO"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "hostmaster@linkedin.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Administrator",
+  "org": "LinkedIn Corporation",
+  "address": "1000 W. Maude Ave",
+  "city": "Sunnyvale",
+  "state": "CA",
+  "registrant_postal_code": "94085",
+  "country": "US"
+}
+
+WHOIS DE https://www.delegaciaeletronica.policiacivil.sp.gov.br/ 
+{
+  "domain_name": "sp.gov.br",
+  "registrant_name": "Cia Proc. de Dados do Estado de S Paulo - Prodesp",
+  "registrant_id": "62.577.929/0001-35",
+  "country": "BR",
+  "owner_c": "COGIN3",
+  "admin_c": null,
+  "tech_c": "GEIPR",
+  "billing_c": null,
+  "name_server": [
+    "dns1e.sp.gov.br 200.144.6.154",
+    "dns3e.sp.gov.br 200.144.6.92",
+    "dns2e.sp.gov.br 200.144.6.25",
+    "dns4e.sp.gov.br 4.228.103.202",
+    "dns5e.sp.gov.br 4.228.120.16"
+  ],
+  "nsstat": "20241117 AA",
+  "nslastaa": "20241117",
+  "saci": null,
+  "creation_date": [
+    "1995-07-06 00:00:00",
+    "2024-08-08 00:00:00",
+    "2008-10-14 00:00:00"
+  ],
+  "updated_date": [
+    "2024-08-22 00:00:00",
+    "2024-08-08 00:00:00",
+    "2020-04-29 00:00:00"
+  ],
+  "expiration_date": null,
+  "status": "published",
+  "nic_hdl_br": [
+    "COGIN3",
+    "GEIPR"
+  ],
+  "person": [
+    "Coordenadoria de Gest�o INTRAGOV",
+    "Gerencia Internet PRODESP"
+  ],
+  "email": [
+    "adm@intragov.sp.gov.br",
+    "csirt@sp.gov.br"
+  ]
+}
+
+WHOIS DE https://www.google.com/ 
+{
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+WHOIS DE https://bancotpz.com.br/extrato 
+{
+  "domain_name": null,
+  "registrant_name": null,
+  "registrant_id": null,
+  "country": null,
+  "owner_c": null,
+  "admin_c": null,
+  "tech_c": null,
+  "billing_c": null,
+  "name_server": null,
+  "nsstat": null,
+  "nslastaa": null,
+  "saci": null,
+  "creation_date": null,
+  "updated_date": null,
+  "expiration_date": null,
+  "status": null,
+  "nic_hdl_br": null,
+  "person": null,
+  "email": null
+}
+
+WHOIS DE http://bancotpzatualiza.apps.dnofd.com/static/index.html/ 
+{
+  "domain_name": "DNOFD.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": [
+    "http://www.godaddy.com",
+    "https://www.godaddy.com"
+  ],
+  "reseller": null,
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2022-10-04 05:37:53",
+    "2019-08-13 09:48:16"
+  ],
+  "creation_date": [
+    "2017-07-13 11:55:20",
+    "2017-07-13 06:55:20"
+  ],
+  "expiration_date": [
+    "2026-07-13 11:55:20",
+    "2026-07-13 06:55:20"
+  ],
+  "name_servers": [
+    "NS-1129.AWSDNS-13.ORG",
+    "NS-1834.AWSDNS-37.CO.UK",
+    "NS-686.AWSDNS-21.NET",
+    "NS-96.AWSDNS-12.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": "Registration Private",
+  "org": "Domains By Proxy, LLC",
+  "address": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "city": "Tempe",
+  "state": "Arizona",
+  "registrant_postal_code": "85281",
+  "country": "US"
+}
+
+WHOIS DE http://bancotpzatualiza.apps.dnofd.com/ 
+{
+  "domain_name": "DNOFD.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": [
+    "http://www.godaddy.com",
+    "https://www.godaddy.com"
+  ],
+  "reseller": null,
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2022-10-04 05:37:53",
+    "2019-08-13 09:48:16"
+  ],
+  "creation_date": [
+    "2017-07-13 11:55:20",
+    "2017-07-13 06:55:20"
+  ],
+  "expiration_date": [
+    "2026-07-13 11:55:20",
+    "2026-07-13 06:55:20"
+  ],
+  "name_servers": [
+    "NS-1129.AWSDNS-13.ORG",
+    "NS-1834.AWSDNS-37.CO.UK",
+    "NS-686.AWSDNS-21.NET",
+    "NS-96.AWSDNS-12.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": "Registration Private",
+  "org": "Domains By Proxy, LLC",
+  "address": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "city": "Tempe",
+  "state": "Arizona",
+  "registrant_postal_code": "85281",
+  "country": "US"
+}
+
+WHOIS DE https://www.infomoney.com.br/ 
+{
+  "domain_name": "infomoney.com.br",
+  "registrant_name": "Infostocks Informa��es e Sistemas Ltda.",
+  "registrant_id": "03.082.929/0001-03",
+  "country": "BR",
+  "owner_c": "IISLT15",
+  "admin_c": null,
+  "tech_c": "IISLT15",
+  "billing_c": null,
+  "name_server": [
+    "ns-816.awsdns-38.net",
+    "ns-44.awsdns-05.com",
+    "ns-1186.awsdns-20.org",
+    "ns-1994.awsdns-57.co.uk"
+  ],
+  "nsstat": "20241114 AA",
+  "nslastaa": "20241114",
+  "saci": null,
+  "creation_date": [
+    "2000-02-14 00:00:00",
+    "2019-02-04 00:00:00"
+  ],
+  "updated_date": [
+    "2024-01-23 00:00:00",
+    "2023-10-11 00:00:00"
+  ],
+  "expiration_date": "2027-02-14 00:00:00",
+  "status": "published",
+  "nic_hdl_br": "IISLT15",
+  "person": "INFOSTOCKS INFORMA��ES E SISTEMAS LTDA",
+  "email": "tecnologia@xpi.com.br"
+}
+
+WHOIS DE https://www.bcb.gov.br/ 
+{
+  "domain_name": "bcb.gov.br",
+  "registrant_name": "Banco Central do Brasil",
+  "registrant_id": "00.038.166/0001-05",
+  "country": "BR",
+  "owner_c": "SETIN16",
+  "admin_c": null,
+  "tech_c": "SETIN16",
+  "billing_c": null,
+  "name_server": [
+    "ns.bcb.gov.br 200.218.209.67",
+    "ns2.bcb.gov.br 200.218.208.68"
+  ],
+  "nsstat": "20241119 AA",
+  "nslastaa": "20241119",
+  "saci": null,
+  "creation_date": [
+    "1996-01-24 00:00:00",
+    "2015-06-17 00:00:00"
+  ],
+  "updated_date": [
+    "2015-06-17 00:00:00",
+    "2017-01-06 00:00:00"
+  ],
+  "expiration_date": null,
+  "status": "published",
+  "nic_hdl_br": "SETIN16",
+  "person": "Seguran�a em Tecnologia da Informa��o",
+  "email": "segurancati.deinf@bcb.gov.br"
+}
+
+WHOIS DE https://g1.globo.com/ 
+{
+  "domain_name": "GLOBO.COM",
+  "registrar": "1API GmbH",
+  "registrar_url": "http://www.1api.net",
+  "reseller": null,
+  "whois_server": "whois.1api.net",
+  "referral_url": null,
+  "updated_date": [
+    "2019-03-01 22:43:35",
+    "2018-05-23 16:27:41"
+  ],
+  "creation_date": "1998-12-21 05:00:00",
+  "expiration_date": "2025-12-21 05:00:00",
+  "name_servers": [
+    "NS01.GLOBO.COM",
+    "NS02.GLOBO.COM",
+    "NS03.GLOBO.COM",
+    "NS04.GLOBO.COM",
+    "ns01.globo.com 131.0.24.26 2804:0294:0100:0803:0131:0000:0024:0026",
+    "ns02.globo.com 186.192.89.18",
+    "ns03.globo.com 186.192.89.5 2804:0294:4000:8001:0000:0000:0000:0005",
+    "ns04.globo.com 177.53.95.213 2804:0294:8000:0200:0177:0053:0095:0213"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited - http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "abuse@1api.net",
+    "dns-admin@corp.globo.com",
+    "dns-tech@corp.globo.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Globo Comunicacao e Participacoes S/A",
+  "org": "27.865.757/0001-02",
+  "address": "Rua Lopes Quintas",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "registrant_postal_code": "22460-010",
+  "country": "BR"
+}
+
