@@ -1,6 +1,6 @@
-# Script para pesquisa de registros WHOIS
+# 🔍 Script para pesquisa de registros WHOIS 
 
-Desenvolvido em **Python** O script consulta informações WHOIS para uma lista de domínios de um arquivo de texto, armazenando os resultados em um arquivo de saída e erros em outro. Ele lê os domínios, tenta realizar as consultas e registra os resultados ou erros, fazendo uma pausa de 1 segundo entre as tentativas. Ao final, exibe uma mensagem de conclusão com o status da pesquisa e o local onde os dados foram salvos.
+Desenvolvido em **Python**, o script consulta informações WHOIS para uma lista de domínios de um arquivo de texto, armazenando os resultados em um arquivo de saída e erros em outro. Ele lê os domínios, tenta realizar as consultas e registra os resultados ou erros, fazendo uma pausa de 1 segundo entre as tentativas. Ao final, exibe uma mensagem de conclusão com o status da pesquisa e o local onde os dados foram salvos.
 
 ## Como funciona?
 
@@ -30,7 +30,7 @@ Ao final da execução, o código imprime uma mensagem de conclusão, informando
   ```bash
    cd whoisQuery
   ```
-3. Vá ao arquivo main.py e rode.
+3. Vá ao arquivo main.py e execute, veja a lista de resultados ser gerada.
 
 ## Autor 
 Desenvolvido por: Jonas Monteiro Fernandes
