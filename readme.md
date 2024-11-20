@@ -14,6 +14,10 @@ Ao final da execução, o código imprime uma mensagem de conclusão, informando
 ## Tecnologias Utilizadas
 - **Python**
 
+## Print do código
+
+<img src="assets/scriptPrint.png">
+
 ## Como Rodar o Projeto
 
 ### Pré-requisitos
