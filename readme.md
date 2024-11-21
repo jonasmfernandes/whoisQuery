@@ -35,7 +35,7 @@ Ao final da execução, o código imprime uma mensagem de conclusão, informando
 ## Como Rodar o Projeto
 
 ### Pré-requisitos
-- **Python** instalado. <a href="https://www.python.org/downloads/">Baixe aqui.
+- **Python** instalado. <a href="https://www.python.org/downloads/" target="_blank">Baixe aqui.
 - **Python-whois** instalado globalmente:  
 - **Python pandas** instalado globalmente:
 ```bash
