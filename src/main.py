@@ -20,4 +20,4 @@ with open(output_file, "w", encoding = "utf-8") as result_file, open(error_file,
             print(f"Erro ao consultar WHOIS {domain}: {e}")
             time.sleep(1)
 
-print(f"Pesquisa finalizada. Os WHOIS foram salvos em '{output_file}' e os erros em '{error_file}'.")
+print(f"Pesquisa encerrada. Os protocolos WHOIS foram salvos em '{output_file}' e os erros em '{error_file}'.")
