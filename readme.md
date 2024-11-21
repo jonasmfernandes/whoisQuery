@@ -13,28 +13,44 @@ Ao final da execução, o código imprime uma mensagem de conclusão, informando
 
 ## Tecnologias Utilizadas
 - **Python**
-
+- **Python-whois library**
+- **Pandas library**
+  
 ## Print do código
 
 <img src="assets/scriptPrint.png">
 
+## Print do resultado 
+
+<img src="assets/whoisExample.png">
+
+## Print do código com a biblioteca pandas para exportação CSV
+
+<img src="assets/pandasCode.png">
+
+## Print do resultado CSV no Excel
+
+<img src="assets/excelPrint.png">
+
 ## Como Rodar o Projeto
 
 ### Pré-requisitos
-- **Python** instalado.
+- **Python** instalado. <a href="https://www.python.org/">Baixe aqui.
 - **Python-whois** instalado globalmente:  
+- **Python pandas** instalado globalmente:
 ```bash
   pip install python-whois
+  pip install pandas
 ```
 1. Clone este repositório:
   ```bash
    git clone https://github.com/jonasmfernandes/whoisQuery.git
   ```
-2. Acesse a pasta do projeto:
+1. Acesse a pasta do projeto:
   ```bash
    cd whoisQuery
   ```
-3. Vá ao arquivo main.py e execute, veja a lista de resultados ser gerada.
+1. Vá ao arquivo main.py e execute, veja a lista de resultados ser gerada.
 
 ## Autor 
 Desenvolvido por: Jonas Monteiro Fernandes
